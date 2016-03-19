@@ -1,0 +1,9 @@
+C:\Users\Netko\documents\visual studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\bin\Debug\RandomNumberSGenerator.exe.config
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\bin\Debug\RandomNumberSGenerator.exe
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\bin\Debug\RandomNumberSGenerator.pdb
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\obj\Debug\RandomNumberSGenerator.MainForm1.resources
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\obj\Debug\RandomNumberSGenerator.Form2.resources
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\obj\Debug\RandomNumberSGenerator.Properties.Resources.resources
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\obj\Debug\RandomNumberSGenerator.csproj.GenerateResource.Cache
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\obj\Debug\RandomNumberSGenerator.exe
+C:\Users\Netko\Documents\Visual Studio 2015\Projects\RandomNumberSGenerator\RandomNumberSGenerator\obj\Debug\RandomNumberSGenerator.pdb
